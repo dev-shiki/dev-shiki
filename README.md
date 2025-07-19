@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://github.com/dev-shiki/dev-shiki/blob/main/assets/profile-banner.png?raw=true" alt="Nanda Leo Ardana Profile Banner" width="100%">
-
- 
   
   <!-- Dynamic Typing Animation -->
   <h1>
