@@ -180,21 +180,15 @@ Currently, I'm looking for opportunities to join a dynamic team and contribute t
   <table>
     <tr>
       <td align="center">
-        <a href="mailto:dev.shiki@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-          <br>📧 dev.shiki@gmail.com
+        <a href="mailto:nandaleoardana@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+          <br>📧 nandaleoardana@gmail.com
         </a>
       </td>
       <td align="center">
-        <a href="https://linkedin.com/in/dev-shiki">
+        <a href="www.linkedin.com/in/nanda-leo-ardana-b91597220">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
           <br>💼 LinkedIn Profile
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://wa.me/6281234567890">
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-          <br>💬 WhatsApp Chat
         </a>
       </td>
     </tr>
