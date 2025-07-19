@@ -109,40 +109,6 @@ Currently, I'm looking for opportunities to join a dynamic team and contribute t
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-  
-  <!-- Project Cards -->
-  <a href="https://github.com/dev-shiki/apex-trading-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-shiki&repo=apex-trading-system&theme=radical" alt="APEX Trading System" />
-  </a>
-  
-  <a href="https://github.com/dev-shiki/ai-portfolio-optimizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dev-shiki&repo=ai-portfolio-optimizer&theme=radical" alt="AI Portfolio Optimizer" />
-  </a>
-  
-</div>
-
-### 🌟 Project Highlights:
-
-#### 🤖 APEX Trading System
-- **Tech Stack**: Python, TensorFlow, FastAPI, Docker, AWS
-- **Features**: AI-powered trading algorithms, real-time market data analysis, automated risk management
-- **Status**: Active Development | **Impact**: 85% prediction accuracy
-
-#### 📊 AI Portfolio Optimizer
-- **Tech Stack**: React, Python, Machine Learning, PostgreSQL
-- **Features**: Intelligent asset allocation, risk assessment, performance analytics
-- **Status**: Production Ready | **Impact**: 20% improved portfolio performance
-
-#### 🎯 Smart Task Manager
-- **Tech Stack**: Next.js, TypeScript, Prisma, Tailwind CSS
-- **Features**: AI-powered task prioritization, team collaboration, advanced analytics
-- **Status**: Beta Testing | **Impact**: 40% productivity increase
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -160,33 +126,10 @@ Currently, I'm looking for opportunities to join a dynamic team and contribute t
       <br>
       <strong>UIN Syarif Hidayatullah Jakarta</strong>
       <br>
-      <em>2020 - 2024 | GPA: 3.75/4.00</em>
-    </td>
-    <td align="center" width="300">
-      <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws" />
-      <br>
-      <strong>AWS Certified Cloud Practitioner</strong>
-      <br>
-      <em>2024</em>
+      <em>2020 - 2024 | GPA: 3.71/4.00</em>
     </td>
   </tr>
 </table>
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Intern Software Developer - PT. Tech Solutions
-**January 2024 - June 2024**
-- Developed web applications using React and Node.js
-- Implemented CI/CD pipeline with Docker and GitHub Actions
-- Optimized database queries that improved performance by 40%
-
-### 💻 Freelance Full-Stack Developer
-**2023 - Present**
-- Completed 15+ web development projects for local and international clients
-- Specialized in e-commerce and business management systems
-- Maintained 4.9/5.0 rating on freelancing platforms
 
 ---
 
