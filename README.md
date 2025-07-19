@@ -1,5 +1,13 @@
 <div align="center">
   <img src="https://github.com/dev-shiki/dev-shiki/blob/main/assets/profile-banner.png?raw=true" alt="Nanda Leo Ardana Profile Banner" width="100%">
+
+  <!-- Game-like SVG Animations -->
+  <div style="margin: 20px 0;">
+    <img src="github/bouncing-ball.svg" alt="Bouncing Ball Animation" width="120" height="60" />
+    <img src="github/walking-character.svg" alt="Walking Character Animation" width="120" height="60" />
+    <img src="github/pixel-led.svg" alt="Pixel LED Animation" width="60" height="20" />
+    <img src="github/progress-bar.svg" alt="Progress Bar Animation" width="120" height="20" />
+  </div>
   
   <!-- Dynamic Typing Animation -->
   <h1>
