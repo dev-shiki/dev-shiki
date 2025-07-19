@@ -43,8 +43,6 @@ Currently, I'm looking for opportunities to join a dynamic team and contribute t
 - 🔭 Currently developing **APEX Trading System** - an AI-powered automated trading system
 - 🌱 Learning **Microservices Architecture** and **Kubernetes**
 - 👯 Open to collaboration on **Open Source** projects
-- 💡 Interested in **Blockchain Technology** and **Web3 Development**
-
 ---
 
 ## 💻 Tech Stack & Skills
@@ -64,7 +62,6 @@ Currently, I'm looking for opportunities to join a dynamic team and contribute t
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
 </p>
 
 ### ⚡ Backend Development
