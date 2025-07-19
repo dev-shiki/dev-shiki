@@ -165,7 +165,6 @@ Currently, I'm looking for opportunities to join a dynamic team and contribute t
 - 📚 Love reading about emerging technologies
 - 🏃‍♂️ Regular jogging to maintain work-life balance
 - 🎵 Coding while listening to lo-fi hip hop
-- 🌱 Currently learning Korean (안녕하세요!)
 
 ---
 
